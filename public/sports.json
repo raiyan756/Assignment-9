@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cricket",
+    "image": "https://i.ibb.co/b2t01b5/crciket.jpg",
+    "price": 29.99,
+    "short_description": " Cricket is a bat-and-ball game played between two teams on a circular field with a rectangular pitch in the center. Players score runs by hitting the ball and running between wickets. The aim is to score more runs than the opposing team while taking wickets and restricting their opponent's score."
+  },
+  {
+    "id": 2,
+    "name": "Football",
+    "image": "https://i.ibb.co/yR5ns1Q/football.jpg",
+    "price": 39.99,
+    "short_description": "Football, or soccer, is a team sport played between two teams of eleven players each. The objective is to score goals by kicking a ball into the opposing team's net. It's played on a rectangular field, and the team with the most goals at the end of the match wins."
+  },
+  {
+    "id": 3,
+    "name": "Hockey",
+    "image": "https://i.ibb.co/Fzb41mb/hockey.jpg",
+    "price": 49.99,
+    "short_description": "Hockey is a team sport played on a field, where players use sticks to hit a small, hard ball into the opponent's goal. It's played with two teams of eleven players each, aiming to score more goals than the opposition by maneuvering the ball skillfully across the field."
+  },
+  {
+    "id": 4,
+    "name": "Carrom",
+    "image": "https://i.ibb.co/ZJTp3kY/carrom.jpg",
+    "price": 59.99,
+    "short_description": "Carrom is a tabletop game that involves flicking a striker with the fingers to hit and pocket coins into the corner pockets of the board. It's played by two or four players and requires precision, strategy, and skill in aiming and striking the coins"
+  },
+  {
+    "id": 5,
+    "name": "Tenis",
+    "image": "https://i.ibb.co/60BHpng/tenis.jpg",
+    "price": 69.99,
+    "short_description": "Tennis is a racket sport played between two opponents or two teams of two players each. The players use rackets to hit a ball back and forth over a net, aiming to land the ball within the boundaries of the opponent's court. The objective is to score points by making the opponent unable to return the ball correctly "
+  },
+  {
+    "id": 6,
+    "name": "VolyBall",
+    "image": "https://i.ibb.co/5hZTJRf/volyball.jpg",
+    "price": 79.99,
+    "short_description": "Volleyball is a team sport played with six players on each side separated by a net. The objective is to hit a ball over the net and ground it in the opponent's court, while preventing the opposing team from doing the same. Points are scored when the ball hits the ground in the opponent's area."
+  }
+]
